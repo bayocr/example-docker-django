@@ -1,0 +1,288 @@
+[
+    {
+        "model": "books.book",
+        "pk": 1,
+        "fields": {
+            "name": "To Kill a Mockingbird",
+            "author": 1,
+            "description": "The unforgettable novel of a childhood in a sleepy Southern town and the crisis of conscience that rocked it, To Kill A Mockingbird became both an instant bestseller and a critical success when it was first published in 1960. It went on to win the Pulitzer Prize in 1961 and was later made into an Academy Award-winning film, also a classic.",
+            "page_number": 384,
+            "published_at": "1988-10-11",
+            "isbn_10": "0446310786",
+            "isbn_13": "978-0446310789"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 2,
+        "fields": {
+            "name": "Pride and Prejudice",
+            "author": 2,
+            "description": "Pride and Prejudice has delighted generations of readers with its unforgettable cast of characters, carefully choreographed plot, and a hugely entertaining view of the world and its absurdities. With the arrival of eligible young men in their neighborhood, the lives of Mr. and Mrs.\r\nBennet and their five daughters are turned inside out and upside down.",
+            "page_number": 382,
+            "published_at": "2008-05-15",
+            "isbn_10": "0199535566",
+            "isbn_13": "978-0199535569"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 3,
+        "fields": {
+            "name": "The Diary of Anne Frank",
+            "author": 3,
+            "description": "In Everyman’s Library for the first time—one of the most moving and eloquent accounts of the Holocaust, read by tens of millions of people around the world since its publication in 1947.",
+            "page_number": 320,
+            "published_at": "2010-10-19",
+            "isbn_10": "0307594009",
+            "isbn_13": "978-0307594006"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 4,
+        "fields": {
+            "name": "1984",
+            "author": 4,
+            "description": "Written more than 70 years ago, 1984 was George Orwell’s chilling prophecy about the future. And while 1984 has come and gone, his dystopian vision of a government that will do anything to control the narrative is timelier than ever",
+            "page_number": 328,
+            "published_at": "1961-01-01",
+            "isbn_10": "9780451524935",
+            "isbn_13": "978-0451524935"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 5,
+        "fields": {
+            "name": "Harry Potter and the Sorcerer's Stone",
+            "author": 5,
+            "description": "Harry Potter has no idea how famous he is. That's because he's being raised by his miserable aunt and uncle who are terrified Harry will learn that he's really a wizard, just as his parents were. But everything changes when Harry is summoned to attend an infamous school for wizards, and he begins to discover some clues about his illustrious birthright.",
+            "page_number": 309,
+            "published_at": "1998-09-01",
+            "isbn_10": "0439708184",
+            "isbn_13": "978-0439708180"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 6,
+        "fields": {
+            "name": "The Lord of the Rings (1-3)",
+            "author": 6,
+            "description": "One Ring to rule them all, One Ring to find them, One Ring to bring them all and in the darkness bind them",
+            "page_number": 1178,
+            "published_at": "2005-10-12",
+            "isbn_10": "0618640150",
+            "isbn_13": "978-0618640157"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 7,
+        "fields": {
+            "name": "The Great Gatsby",
+            "author": 7,
+            "description": "The only authorized edition of the twentieth-century classic, featuring F. Scott Fitzgerald’s final revisions, a foreword by his granddaughter, and a new introduction by National Book Award winner Jesmyn Ward.",
+            "page_number": 180,
+            "published_at": "2004-09-30",
+            "isbn_10": "9780743273565",
+            "isbn_13": "978-0743273565"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 8,
+        "fields": {
+            "name": "Charlotte's Web",
+            "author": 8,
+            "description": "Don’t miss one of America’s top 100 most-loved novels, selected by PBS’s The Great American Read.\r\n\r\nThis beloved book by E. B. White, author of Stuart Little and The Trumpet of the Swan, is a classic of children's literature that is \"just about perfect.\" This paper-over-board edition includes a foreword by two-time Newbery winning author Kate DiCamillo.",
+            "page_number": 192,
+            "published_at": "2012-04-10",
+            "isbn_10": "x",
+            "isbn_13": "x"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 9,
+        "fields": {
+            "name": "Animal Farm",
+            "author": 4,
+            "description": "Jane Eyre (originally published as Jane Eyre: An Autobiography) is a novel by English writer Charlotte Brontë. It was published on 16 October 1847 by Smith, Elder & Co. of London, England, under the pen name \"Currer Bell.\" The first American edition was released the following year by Harper & Brothers of New York. Primarily of the bildungsroman genre, Jane Eyre",
+            "page_number": 290,
+            "published_at": "2020-12-04",
+            "isbn_10": "1503278190",
+            "isbn_13": "978-1503278196"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 10,
+        "fields": {
+            "name": "Gone with the Wind",
+            "author": 12,
+            "description": "Since its original publication in 1936, Gone With the Wind—winner of the Pulitzer Prize and one of the bestselling novels of all time—has been heralded by readers everywhere as The Great American Novel.",
+            "page_number": 960,
+            "published_at": "2011-04-03",
+            "isbn_10": "1451635621",
+            "isbn_13": "978-1451635621"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 11,
+        "fields": {
+            "name": "The Catcher in the Rye",
+            "author": 13,
+            "description": "Anyone who has read J.D. Salinger's New Yorker stories--particularly A Perfect Day for Bananafish, Uncle Wiggily in Connecticut, The Laughing Man, and For Esme With Love and Squalor--will not be surprised by the fact that his first novel is full of children. The hero-narrator of The Catcher in the Rye is an ancient child of sixteen, a native New Yorker named",
+            "page_number": 288,
+            "published_at": "2001-01-01",
+            "isbn_10": "9780316769174",
+            "isbn_13": "978-0316769174"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 12,
+        "fields": {
+            "name": "The Book Thief",
+            "author": 14,
+            "description": "The extraordinary #1 New York Times bestseller about the ability of books to feed the soul even in the darkest of times.\r\n \r\nNominated as one of America's best-loved novels by PBS’s The Great American Read.",
+            "page_number": 608,
+            "published_at": "2007-09-11",
+            "isbn_10": "0375842209",
+            "isbn_13": "978-0375842207"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 13,
+        "fields": {
+            "name": "The Adventures of Huckleberry Finn",
+            "author": 15,
+            "description": "Referring to Adventures of Huckleberry Finn, H. L. Mencken noted that his discovery of this classic American novel was \"the most stupendous event of my whole life\"; Ernest Hemingway declared that \"all modern American literature stems from this one book,\" while T. S. Eliot called Huck \"one of the permanent symbolic figures of fiction, not unworthy to take a place with Ulysses, Faust, Don Quixote, Don Juan, Hamlet.\"",
+            "page_number": 100,
+            "published_at": "1984-01-01",
+            "isbn_10": "9780486280615",
+            "isbn_13": "978-0486280615"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 14,
+        "fields": {
+            "name": "The Hunger Games",
+            "author": 16,
+            "description": "In the ruins of a place once known as North America lies the nation of Panem, a shining Capitol surrounded by twelve outlying districts. Long ago the districts waged war on the Capitol and were defeated. As part of the surrender terms, each district agreed to send one boy and one girl to appear in an annual televised event called, \"The Hunger Games,\"",
+            "page_number": 384,
+            "published_at": "2010-07-03",
+            "isbn_10": "9780439023528",
+            "isbn_13": "978-0439023528"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 15,
+        "fields": {
+            "name": "The Help",
+            "author": 17,
+            "description": "In 1960s Mississippi, Southern society girl Skeeter (Emma Stone) returns from college with dreams of being a writer. She turns her small town on its ear by choosing to interview the black women who have spent their lives taking care of prominent white families.",
+            "page_number": 544,
+            "published_at": "2011-06-28",
+            "isbn_10": "0425245136",
+            "isbn_13": "978-0425245132"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 16,
+        "fields": {
+            "name": "The Lion, the Witch, and the Wadrobe",
+            "author": 18,
+            "description": "Don’t miss one of America’s top 100 most-loved novels, selected by PBS’s The Great American Read.",
+            "page_number": 208,
+            "published_at": "2008-01-02",
+            "isbn_10": "9780064404990",
+            "isbn_13": "xy"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 17,
+        "fields": {
+            "name": "The Grapes of Wrath",
+            "author": 19,
+            "description": "The Pulitzer Prize-winning epic of the Great Depression, a book that galvanized—and sometimes outraged—millions of readers. Nominated as one of America’s best-loved novels by PBS’s The Great American Read",
+            "page_number": 464,
+            "published_at": "2006-03-28",
+            "isbn_10": "0143039431",
+            "isbn_13": "978-0143039433"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 18,
+        "fields": {
+            "name": "The Lord of the Flies",
+            "author": 20,
+            "description": "Golding’s iconic 1954 novel, now with a new foreword by Lois Lowry, remains one of the greatest books ever written for young adults and an unforgettable classic for readers of any age.",
+            "page_number": 224,
+            "published_at": "2003-12-16",
+            "isbn_10": "0399501487",
+            "isbn_13": "978-0399501487"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 19,
+        "fields": {
+            "name": "The Kite Runner",
+            "author": 21,
+            "description": "The #1 New York Times bestselling debut novel that introduced Khaled Hosseini to millions of readers the world over.",
+            "page_number": 400,
+            "published_at": "2013-03-05",
+            "isbn_10": "9781594631931",
+            "isbn_13": "978-1594631931"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 20,
+        "fields": {
+            "name": "Night",
+            "author": 22,
+            "description": "Night is Elie Wiesel's masterpiece, a candid, horrific, and deeply poignant autobiographical account of his survival as a teenager in the Nazi death",
+            "page_number": 120,
+            "published_at": "2006-01-16",
+            "isbn_10": "9780374500016",
+            "isbn_13": "978-0374500016"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 21,
+        "fields": {
+            "name": "Hamlet",
+            "author": 23,
+            "description": "Hamlet is Shakespeare's most popular, and most puzzling, play. It follows the form of a \"revenge tragedy,\" in which the hero, Hamlet, seeks vengeance against his father's murderer, his uncle Claudius, now the king of Denmark. Much of its fascination, however, lies in its uncertainties.",
+            "page_number": 432,
+            "published_at": "2012-04-24",
+            "isbn_10": "1451669410",
+            "isbn_13": "978-1451669411"
+        }
+    },
+    {
+        "model": "books.book",
+        "pk": 22,
+        "fields": {
+            "name": "A Wrinkle in Time",
+            "author": 24,
+            "description": "It was a dark and stormy night; Meg Murry, her small brother Charles Wallace, and her mother had come down to the kitchen for a midnight snack when they were upset by the arrival of a most disturbing stranger.",
+            "page_number": 224,
+            "published_at": "2007-05-01",
+            "isbn_10": "0312367554",
+            "isbn_13": "978-0312367558"
+        }
+    }
+]

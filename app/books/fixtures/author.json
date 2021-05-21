@@ -1,0 +1,298 @@
+[
+    {
+        "model": "books.author",
+        "pk": 1,
+        "fields": {
+            "name": "Harper Lee",
+            "bio": "Nelle Harper Lee (Monroeville, Alabama, 28 de abril de 1926-ibídem, 19 de febrero de 2016) fue una escritora estadounidense conocida por su novela Matar un ruiseñor (To Kill a Mockingbird, 1960), obra ganadora del Premio Pulitzer, y que fue su única obra publicada durante 55 años hasta la publicación en 2015 de Ve y pon un centinela (Go, Set a Watchman), pero que fue escrita con anterioridad por la autora (a mediados de los años cincuenta) y que es en realidad el primer borrador de su primera novela.1​\r\n\r\nSu novela Matar un ruiseñor fue llevada al cine con el título homónimo en 1962 por Robert Mulligan y protagonizada por Gregory Peck en el papel de Atticus Finch y Mary Badham como Jean Louise \"Scout\" Finch, siendo candidata a ocho premios Óscar (entre ellos mejor película y mejor director) y galardonada con tres: actor protagonista (Gregory Peck), guion adaptado (Horton Foote) y dirección artística en blanco y negro (Henry Bumstead, Alexander Golitzen y Oliver Emert)."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 2,
+        "fields": {
+            "name": "Jane Austen",
+            "bio": "Jane Austen (Steventon, 16 de diciembre de 1775-Winchester, 18 de julio de 1817) fue una novelista británica que vivió durante la época georgiana. La ironía que emplea para dotar de comicidad a sus novelas hace que Jane Austen sea considerada entre los clásicos de la novela inglesa,1​ a la vez que su recepción va, incluso en la actualidad, más allá del interés académico, siendo sus obras leídas por un público más amplio.2​\r\n\r\nNació en la rectoría de Steventon (Hampshire). Su familia pertenecía a la burguesía agraria, contexto del que no salió y en el que sitúa todas sus obras, siempre en torno al matrimonio de su protagonista. La candidez de las obras de Austen, sin embargo, es meramente aparente, si bien puede interpretarse de varias maneras. Los círculos académicos siempre han considerado a Austen como una escritora conservadora, mientras que la crítica feminista más actual apunta que en su obra puede apreciarse una novelización del pensamiento de Mary Wollstonecraft sobre la educación de la mujer.\r\n\r\nHa sido llevada al cine en numerosas ocasiones, algunas veces reproducidas de forma fiel, como el clásico Más fuerte que el orgullo de 1940 dirigido por Robert Z. Leonard y protagonizada por Greer Garson y Laurence Olivier y en otras haciendo adaptaciones a la época actual, como es el caso de Clueless, adaptación libre de Emma. Otras versiones son la de Sentido y sensibilidad, de 1995; Mansfield Park, de 2000, y las de Orgullo y prejuicio en 2004 (dirigida por Gurinder Chadha) y en 2005 (dirigida por Joe Wright). Sin embargo, la versión más fiel y perfecta que hasta ahora se ha hecho del libro de Orgullo y prejuicio es la serie que presentó la BBC protagonizada por Colin Firth y Jennifer Ehle. El interés que la obra de Jane Austen sigue despertando hoy en día muestra la vigencia de su pensamiento y la influencia que ha tenido en la literatura posterior. Su vida también ha sido llevada al cine con la película Becoming Jane (2007)."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 3,
+        "fields": {
+            "name": "Anne Frank",
+            "bio": "Annelies Marie Frank, conocida en español como Ana Frank (Fráncfort del Meno, 12 de junio de 1929-Bergen-Belsen, febrero o marzo de 1945),1​2​nota 1​ fue una niña alemana con ascendencia judía, mundialmente conocida gracias al Diario de Ana Frank, la edición de su diario íntimo, donde dejó constancia de los casi dos años y medio que pasó ocultándose, con su familia y cuatro personas más, de los nazis, en Ámsterdam (Países Bajos) durante la Segunda Guerra Mundial.\r\n\r\nUna vez fueron descubiertos en su escondite, Ana y su familia fueron capturados y llevados a distintos campos de concentración alemanes. El único superviviente de los ocho escondidos fue Otto Frank, su padre. Ana fue enviada al campo de concentración nazi de Auschwitz el 2 de septiembre de 1944 y, más tarde, al de Bergen-Belsen, donde murió de tifus alrededor de mediados de febrero de 1945, unos dos meses antes de que el campo fuera liberado.4​ En 1947, apenas dos años después de terminada la guerra, su padre publicó el diario bajo el título La casa de atrás (en neerlandés, Het Achterhuis)."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 4,
+        "fields": {
+            "name": "George Orwell",
+            "bio": "Eric Arthur Blair (Motihari, Raj Británico, 25 de junio de 1903-Londres, Reino Unido, 21 de enero de 1950),1​2​ más conocido por su seudónimo de George Orwell, fue un novelista, periodista, ensayista y crítico británico nacido en la India, conocido mundialmente por su novelas distópicas Rebelión en la granja (1945) y 1984 (1950).\r\n\r\nSu obra lleva la marca de las experiencias autobiográficas vividas por el autor en tres etapas de su vida: su posición en contra del imperialismo británico que lo llevó al compromiso como representante de las fuerzas del orden colonial en Birmania durante su juventud; a favor del socialismo democrático, después de haber observado y sufrido las condiciones de vida de las clases sociales de los trabajadores de Londres y París; y en contra de los totalitarismos nazi y estalinista tras su participación en la guerra civil española.\r\n\r\nAdemás de cronista, crítico de literatura y novelista, es uno de los ensayistas en lengua inglesa más destacados de las décadas de 1930 y de 1940. Sin embargo, es más conocido por sus críticas al totalitarismo en su novela corta alegórica Rebelión en la granja (1945) y su novela distópica 1984 (1949), escrita en sus últimos años de vida y publicada poco antes de su fallecimiento, y en la que crea el concepto de «Gran Hermano», que desde entonces pasó al lenguaje común de la crítica de las técnicas modernas de vigilancia.\r\n\r\nEn 2008 figuraba en el puesto número dos del listado de los cincuenta escritores británicos de mayor relevancia desde 1945, elaborado por The Times.3​\r\n\r\nEl adjetivo «orwelliano» es frecuentemente utilizado en referencia al distópico universo totalitario imaginado por el escritor británico."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 5,
+        "fields": {
+            "name": "J.K. Rowling",
+            "bio": "Joanne Rowling1​ (Yate, 31 de julio de 1965), quien escribe bajo los seudónimos J. K. Rowling2​ y Robert Galbraith, es una escritora, productora de cine y guionista británica, conocida por ser la autora de la serie de libros Harry Potter, que han superado los quinientos millones de ejemplares vendidos.3​\r\n\r\nEste éxito literario supuso que la Sunday Times Rich List de 2008 estimase la fortuna de Rowling en 560 millones de libras, lo que la situó como la duodécima mujer más rica en el Reino Unido.4​ Asimismo, Forbes ubicó a Rowling en el cuadragésimo puesto en su lista de las celebridades más poderosas de 2007,5​ y la revista Time la seleccionó como «Personaje del Año» en el mismo año, resaltando la inspiración social, moral y política que les ha dado a los personajes de Harry Potter.6​\r\n\r\nRowling es una conocida filántropa que apoya instituciones de caridad como Comic Relief, One Parent Families y Multiple Sclerosis Society of Great Britain."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 6,
+        "fields": {
+            "name": "J. R. R. Tolkien",
+            "bio": "John Ronald Reuel Tolkien (AFI: dʒɒn ˈɹʷɒnld ˈɹʷuːəl ˈtʰɒlkiːn) (Bloemfontein, hoy Sudáfrica; 3 de enero de 1892-Bournemouth, Dorset; 2 de septiembre de 1973), a menudo citado como J. R. R. Tolkien o JRRT, fue un escritor, poeta, filólogo, lingüista y profesor universitario británico, conocido principalmente por ser el autor de las novelas clásicas de fantasía heroica El hobbit, El Silmarillion y El Señor de los Anillos.\r\n\r\nDe 1925 a 1945, Tolkien ocupó la cátedra Rawlinson y Bosworth en la Universidad de Oxford, enseñando anglosajón y, de 1945 a 1959, fue profesor de Lengua y Literatura inglesa en Merton. Era amigo cercano del también escritor C. S. Lewis y ambos eran miembros de un informal grupo de debate literario conocido como los Inklings. Tolkien fue nombrado Comendador de la Orden del Imperio Británico por la reina Isabel II el 28 de marzo de 1972.1​\r\n\r\nDespués de su muerte, el tercer hijo de Tolkien, Christopher, publicó una serie de obras basadas en las amplias notas y manuscritos inéditos de su padre, entre ellas El Silmarillion y Los hijos de Húrin. Estos libros, junto con El hobbit y El Señor de los Anillos, forman un cuerpo conectado de cuentos, poemas, historias de ficción, idiomas inventados y ensayos literarios sobre un mundo imaginado llamado Arda, y más extensamente sobre uno de sus continentes, conocido como la Tierra Media. Entre 1951 y 1955, Tolkien aplicó la palabra legendarium a la mayor parte de estos escritos.2​3​4​5​\r\n\r\nSi bien escritores como William Morris, Robert E. Howard y E. R. Eddison precedieron a Tolkien en el género literario de fantasía con obras tan famosas e influyentes como las de Conan el Bárbaro,6​ el gran éxito de El hobbit y El Señor de los Anillos cuando se publicaron en Estados Unidos condujo directamente al resurgimiento popular del género.6​7​ Esto ha causado que Tolkien sea identificado popularmente como «el padre» de la literatura moderna de fantasía,8​ o más concretamente, de la alta fantasía.9​ Los trabajos de Tolkien han inspirado muchas otras obras de fantasía y han tenido un efecto duradero en la cultura popular. En 2008, el periódico The Times le clasificó sexto en una lista de «Los 50 escritores británicos más grandes desde 1945».10​"
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 7,
+        "fields": {
+            "name": "F. Scott Fitzgerald",
+            "bio": "Francis Scott Key Fitzgerald (Saint Paul, Minesota, 24 de septiembre de 1896-Hollywood, California, 21 de diciembre de 1940) fue un novelista y escritor estadounidense, ampliamente conocido como uno de los mejores autores estadounidenses del siglo XX, cuyos trabajos son paradigmáticos de la era del jazz. Fitzgerald es considerado miembro de la Generación Perdida de los años veinte. Escribió cinco novelas: El gran Gatsby, Suave es la noche, A este lado del paraíso, Hermosos y malditos y The Love of the Last Tycoon, que aunque sin terminar, fue publicada tras su muerte. Escribió también múltiples historias cortas, muchas de las cuales tratan sobre la juventud y las promesas, la edad y la desesperación."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 8,
+        "fields": {
+            "name": "E.B. White",
+            "bio": "Elwyn Brooks White (11 de julio de 1899 - 1 de octubre de 1985), escritor, ensayista y distinguido prosista estadounidense. Es muy conocido gracias a una guía de estilo para escritores, Los elementos del estilo (The Elements of Style en inglés), y por tres libros para niños que son considerados clásicos estadounidenses del género."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 9,
+        "fields": {
+            "name": "Louisa May Alcott",
+            "bio": "Louisa May Alcott (Germantown, Pensilvania; 29 de noviembre de 1832 - Boston, Massachusetts; 6 de marzo de 1888) fue una escritora estadounidense, reconocida por su famosa novela Mujercitas (1868). Comprometida con el movimiento abolicionista y con el sufragismo, escribió bajo el pseudónimo de A. M. Barnard una colección de novelas y relatos en los que se tratan temas tabúes para la época como el adulterio y el incesto.1​"
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 10,
+        "fields": {
+            "name": "Ray Bradbury",
+            "bio": "Ray Bradbury (Waukegan, Illinois, 22 de agosto de 1920-Los Ángeles, California, 5 de junio de 2012)1​2​ fue un escritor estadounidense de misterio del género fantástico, terror y ciencia ficción. Principalmente conocido por su obra Crónicas marcianas (1950)3​ y la novela distópica Fahrenheit 451 (1953)."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 11,
+        "fields": {
+            "name": "Charlotte Bronte",
+            "bio": "Charlotte Brontë (Thornton, Yorkshire; 21 de abril de 1816-Haworth, Yorkshire; 31 de marzo de 1855) fue una novelista inglesa, hermana de las también escritoras Anne y Emily Brontë."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 12,
+        "fields": {
+            "name": "Margaret Mitchell",
+            "bio": "Margaret Mitchell (Atlanta, Georgia, 8 de noviembre de 1900-ibídem, 16 de agosto de 1949) fue una periodista, redactora y escritora estadounidense. Su ciudad natal, Atlanta, influyó en su única obra, Lo que el viento se llevó, una de las novelas más populares de la historia de la literatura, inmortalizada en la pantalla por el director de cine Victor Fleming en 1939."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 13,
+        "fields": {
+            "name": "J.D. Salinger",
+            "bio": "Jerome David Salinger (Nueva York, 1 de enero de 1919-Cornish, Nuevo Hampshire, 27 de enero de 2010)1​ fue un escritor estadounidense conocido principalmente por su novela El guardián entre el centeno (The Catcher in the Rye en inglés), que se convirtió en un clásico de la literatura moderna estadounidense casi desde el mismo momento de su publicación en 1951."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 14,
+        "fields": {
+            "name": "Markus Zusak",
+            "bio": "Markus Zusak (Sídney; 23 de junio de 1975) es un escritor australiano conocido internacionalmente por sus novelas Cartas cruzadas y La ladrona de libros, entre otras obras."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 15,
+        "fields": {
+            "name": "Mark Twain",
+            "bio": "Samuel Langhorne Clemens (Florida, Misuri; 30 de noviembre de 1835-Redding, Connecticut; 21 de abril de 1910), más conocido por su seudónimo Mark Twain, fue un escritor, orador y humorista estadounidense. Escribió obras de gran éxito y fama mundial como El príncipe y el mendigo o Un yanqui en la corte del Rey Arturo, pero es conocido sobre todo por su novela Las aventuras de Tom Sawyer y su secuela Las aventuras de Huckleberry Finn.\r\n\r\nTwain creció en Hannibal (Misuri), lugar que utilizaría como escenario para las aventuras de Tom Sawyer y Huckleberry Finn. Trabajó como aprendiz de un impresor y como cajista, y participó en la redacción de artículos para el periódico de su hermano mayor Orion. Después de trabajar como impresor en varias ciudades, se hizo piloto navegante en el río Misisipi, trabajó con poco éxito en la minería del oro, y retornó al periodismo. Como reportero, escribió una historia humorística, La célebre rana saltarina del condado de Calaveras (1865), que se hizo muy popular y atrajo la atención hacia su persona a escala nacional, y sus libros de viajes también fueron bien acogidos. Twain había encontrado su vocación.\r\n\r\nConsiguió un gran éxito como escritor y orador. Su ingenio y espíritu satírico recibieron alabanzas de críticos y colegas, y se hizo amigo de presidentes estadounidenses, artistas, industriales y de la realeza europea. Carecía de visión financiera y, aunque ganó mucho dinero con sus escritos y conferencias, lo malgastó en varias empresas y se vio obligado a declararse en bancarrota. Con la ayuda del empresario y filántropo Henry Huttleston Rogers finalmente resolvió sus problemas financieros.\r\n\r\nTwain nació durante una de las visitas a la Tierra del cometa Halley y predijo que también «me iré con él»; murió al siguiente regreso a la Tierra del cometa, 74 años después. William Faulkner calificó a Twain como «el padre de la literatura norteamericana».1​"
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 16,
+        "fields": {
+            "name": "Suzanne Collins",
+            "bio": "Suzanne Collins (Hartford, Connecticut, Estados Unidos, 10 de agosto de 1962) es una escritora y guionista estadounidense, creadora de la famosa serie de Los juegos del hambre (The Hunger Games)."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 17,
+        "fields": {
+            "name": "Kathryn Stockett",
+            "bio": "Kathryn Stockett (Jackson, Misisipi, 1969) es una novelista estadounidense. Es conocida por su novela debut de 2009, Criadas y señoras, que trata sobre las sirvientas afroamericanas que trabajaban en los hogares de blancos de Jackson, Misisipi, durante los años 60. Adquirió una gran resonancia la versión cinematográfica, estrenada en 2011."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 18,
+        "fields": {
+            "name": "C.S. Lewis",
+            "bio": "Clive Staples Lewis (pronunciado en inglés: /klaiv steɪplz 'lu:ɪs/, Belfast, Irlanda del Norte, 29 de noviembre de 1898-Oxford, Inglaterra, 22 de noviembre de 1963), popularmente conocido como C. S. Lewis, fue un apologista cristiano, medievalista y escritor británico, reconocido por sus obras de ficción, especialmente por su saga Las crónicas de Narnia. También fue crítico literario, académico de la universidad de Oxford en la Magdalen College y locutor de radio norirlandés. Lewis escribió novelas de ficción como Cartas del diablo a su sobrino y la Trilogía cósmica con temáticas apologéticas cristianas, y ensayos apologéticos (mayormente en forma de libro) como Mero Cristianismo, Milagros y El problema del dolor, entre otros.\r\n\r\nLewis fue un amigo cercano de J. R. R. Tolkien, el autor de El Señor de los Anillos. Ambos autores fueron prominentes figuras de la facultad de inglés de la Universidad de Oxford y miembros activos del grupo literario informal de Oxford conocido como los \"Inklings\". De acuerdo a sus memorias denominadas Sorprendido por la alegría, Lewis fue bautizado en la Iglesia de Irlanda cuando nació, pero durante su adolescencia se alejó de su fe y se definió como ateo. Debido a la influencia de Tolkien y otros amigos, cuando tenía cerca de 30 años, Lewis se reconvirtió al cristianismo, siendo \"un seglar muy común de la Iglesia de Inglaterra\".1​ Su conversión tuvo un profundo efecto en sus obras, y sus transmisiones radiofónicas en tiempo de guerra sobre temas relacionados con el cristianismo fueron ampliamente aclamadas.\r\n\r\nEn 1956 contrajo matrimonio con la escritora estadounidense Joy Gresham, 17 años menor que él, que falleció cuatro años después a causa de un cáncer óseo, a la edad de 45 años. Lewis murió tres años después de su esposa, en 1963, debido a una insuficiencia renal.\r\n\r\nLas obras de Lewis han sido traducidas a más de 30 idiomas, y ha vendido millones de copias a través de los años. Los libros que componen Las crónicas de Narnia han sido los más vendidos y se han popularizado en el teatro, la televisión y el cine. Ejemplos de ello incluyen la serie de televisión de la BBC en 1988, la adaptación al cine de El león, la bruja y el armario en 2005, El príncipe Caspian en 2008, y La Travesía del Viajero del Alba en 2010. El éxito de estas últimas producciones ha llevado a iniciar los proyectos de adaptación de La Silla de Plata, y Cartas del diablo a su sobrino."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 19,
+        "fields": {
+            "name": "John Steinbeck",
+            "bio": "John Ernst Steinbeck, Jr. (/ˈstaɪnˌbək/; Salinas, California; 27 de febrero de 1902-Nueva York, 20 de diciembre de 1968)1​ fue un escritor estadounidense ganador del Premio Nobel de Literatura y autor de conocidas novelas como De ratones y hombres, Las uvas de la ira, La perla y Al este del Edén."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 20,
+        "fields": {
+            "name": "William Golding",
+            "bio": "William Gerald Golding (Newquay, 19 de septiembre de 1911-Perranaworthal, 19 de junio de 1993) fue un novelista y poeta británico, galardonado con el premio Nobel de literatura en 1983, conocido especialmente por su obra El señor de las moscas."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 21,
+        "fields": {
+            "name": "Khaled Hosseini",
+            "bio": "Khaled Hosseini (en persa: خالد حسینی, pronunciado: Jáled Hosseini; Kabul, Afganistán, 4 de marzo de 1965) es un escritor en lengua inglesa y médico afgano-estadounidense, que se hizo famoso con sus superventas de los libros Cometas en el cielo (2003), Mil soles espléndidos (2007) y Y las montañas hablaron (2013)."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 22,
+        "fields": {
+            "name": "Elie Wiesel",
+            "bio": "Eliezer Wiesel (en húngaro: Wiesel Lázár; Sighetu Marmației, 30 de septiembre de 1928-Nueva York, 2 de julio de 2016)1​ fue un escritor de lengua yiddish y francesa, de nacionalidad estadounidense, superviviente de los campos de concentración nazis. Dedicó toda su vida a escribir y hablar sobre los horrores del Holocausto, con la firme intención de evitar que se repita en el mundo una barbarie similar. Fue galardonado con el Premio Nobel de la Paz en 1986."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 23,
+        "fields": {
+            "name": "William Shakespeare",
+            "bio": "William Shakespeare (pronunciado [ˈwɪljəm ˈʃeɪkspɪə(ɹ)] ; Stratford-upon-Avon, Warwickshire, Reino de Inglaterra, c. 23 de abril de 1564jul. - ib., 23 de abriljul./ 3 de mayo de 1616greg.)1​ fue un dramaturgo, poeta y actor inglés. Conocido en ocasiones como el Bardo de Avon (o simplemente el Bardo), Shakespeare es considerado el escritor más importante en lengua inglesa y uno de los más célebres de la literatura universal.2​\r\n\r\nSegún la Encyclopædia Britannica, «Shakespeare es generalmente reconocido como el más grande de los escritores de todos los tiempos, figura única en la historia de la literatura. La fama de otros poetas, tales como Homero y Dante Alighieri, o de novelistas tales como León Tolstoy o Charles Dickens, ha trascendido las barreras nacionales, pero ninguno de ellos ha llegado a alcanzar la reputación de Shakespeare, cuyas obras hoy se leen y representan con mayor frecuencia y en más países que nunca. La profecía de uno de sus grandes contemporáneos, Ben Jonson, se ha cumplido por tanto: \"Shakespeare no pertenece a una sola época sino a la eternidad\"».3​\r\n\r\nEl crítico estadounidense Harold Bloom sitúa a Shakespeare junto a Dante Alighieri, en la cúspide de su «canon occidental»: «Ningún otro escritor ha tenido nunca tantos recursos lingüísticos como Shakespeare, tan profusos en Trabajos de amor perdidos que tenemos la impresión de que, de una vez por todas, se han alcanzado muchos de los límites del lenguaje. Sin embargo, la mayor originalidad de Shakespeare reside en la representación de personajes: Bottom es un melancólico triunfo; Shylock, un problema permanentemente equívoco para todos nosotros; pero sir John Falstaff es tan original y tan arrollador que, con él, Shakespeare da un giro de ciento ochenta grados a lo que es crear a un hombre por medio de palabras».4​\r\n\r\nJorge Luis Borges escribió sobre él: «Shakespeare es el menos inglés de los poetas de Inglaterra. Comparado con Robert Frost (de New England), con William Wordsworth, con Samuel Johnson, con Chaucer y con los desconocidos que escribieron, o cantaron, las elegías, es casi un extranjero. Inglaterra es la patria del understatement, de la reticencia bien educada; la hipérbole, el exceso y el esplendor son típicos de Shakespeare».5​\r\n\r\nShakespeare fue poeta y dramaturgo venerado ya en su tiempo, pero su reputación no alcanzó las altísimas cotas actuales hasta el siglo xix. Los románticos, particularmente, aclamaron su genio, y los victorianos adoraban a Shakespeare con una devoción que George Bernard Shaw denominó «bardolatría».6​\r\n\r\nEn el siglo xx, sus obras fueron adaptadas y redescubiertas en multitud de ocasiones por todo tipo de movimientos artísticos, intelectuales y de arte dramático. Las comedias y tragedias shakespearianas han sido traducidas a las principales lenguas, y constantemente son objeto de estudios y se representan en diversos contextos culturales y políticos de todo el mundo. Por otra parte, muchas de las citas y aforismos que salpican sus obras han pasado a formar parte del uso cotidiano, tanto en inglés como en otros idiomas. Y en lo personal, con el paso del tiempo, se ha especulado mucho sobre su vida, cuestionando su sexualidad, su filiación religiosa, e incluso la autoría de sus obras."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 24,
+        "fields": {
+            "name": "Madeleine L'Engle",
+            "bio": "Madeleine L'Engle Camp (Nueva York, 29 de noviembre de 1918-Litchfield, Connecticut; 6 de septiembre de 2007) fue una escritora estadounidense de literatura juvenil."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 25,
+        "fields": {
+            "name": "Charles Dickens",
+            "bio": "Charles John Huffam Dickens (Landport, Portsmouth, Inglaterra, 7 de febrero de 1812-Gads Hill Place, 9 de junio de 1870) fue un escritor británico. Creó algunos de los personajes de ficción más conocidos en el mundo y muchos lo consideran el mejor novelista de la época victoriana. Sus libros gozaron de una popularidad sin precedentes durante su vida, y en el siglo XX, críticos y estudiosos habían reconocido a Dickens como un genio literario. Sus novelas y cuentos todavía son muy leídos hoy y se adaptan habitualmente al teatro.\r\n\r\nDickens ha sido elogiado por muchos de sus compañeros escritores, desde León Tolstói hasta George Orwell, G. K. Chesterton y Tom Wolfe, 1​ por su realismo, su comedia, su estilo de prosa, sus caracterizaciones únicas y su crítica social. Sin embargo, Oscar Wilde, Henry James y Virginia Woolf se quejaron de su falta de profundidad psicológica, su escritura floja y su sentimentalismo.\r\n\r\nEl término dickensiano se utiliza para describir algo que recuerda a Dickens y sus obras, como las malas condiciones sociales o los personajes cómicamente repulsivos."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 26,
+        "fields": {
+            "name": "Douglas Adams",
+            "bio": "Douglas Noël Adams (Cambridge, Inglaterra; 11 de marzo de 1952-Santa Bárbara, California, Estados Unidos; 11 de mayo de 2001) fue un escritor y guionista radiofónico inglés e historiador galáctico, famoso principalmente por su serie La guía del autoestopista galáctico. En el momento de su muerte la serie había vendido más de quince millones de ejemplares.1​ También era conocido por sus iniciales DNA, o —debido a su firma ilegible— como Bop Ad o Bob."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 27,
+        "fields": {
+            "name": "Frances Hodgson Burnett",
+            "bio": "Frances Hodgson Burnett (Cheetham, Mánchester; 24 de noviembre de 1849 - Plandome Manor, Nueva York; 29 de octubre de 1924) fue una escritora y dramaturga británica nacionalizada estadounidense en 1905."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 28,
+        "fields": {
+            "name": "Antoine de Saint-Exupéry",
+            "bio": "Antoine Marie Jean-Baptiste Roger Conde de Saint-Exupéry1​ (Lyon, 29 de junio de 1900 - Mar Mediterráneo, cerca de Marsella, 31 de julio de 1944), conocido como Antoine de Saint-Exupéry, fue un aviador y escritor francés, autor de la famosa obra El principito.2​"
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 29,
+        "fields": {
+            "name": "Aldous Huxley",
+            "bio": "Aldous Leonard Huxley /ˈɒldəs ˈlɛnəd ˈhʌksli/ (Godalming, Surrey, 26 de julio de 1894-Los Ángeles, 22 de noviembre de 1963) fue un escritor y filósofo británico que emigró a los Estados Unidos. Miembro de una reconocida familia de intelectuales, es conocido por sus novelas y ensayos, pero publicó también relatos cortos, poesías, libros de viajes y guiones. A través de sus novelas y ensayos, ejerció como crítico de los roles, convenciones, normas e ideales sociales. Se interesó, asimismo, por los temas espirituales, como la parapsicología y el misticismo, acerca de las cuales escribió varios libros. Se le considera uno de los más importantes representantes del pensamiento moderno."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 30,
+        "fields": {
+            "name": "Lois Lowry",
+            "bio": "Nació en Honolulu, Hawái, EE.UU. Estudió en la Universidad de Maine. Su padre era de origen noruego y su madre tenía sangre alemana, escocesa, irlandesa e inglesa. Ha vivido en distintas partes del mundo.\r\n\r\nComenzó su carrera como fotógrafa y periodista independiente en la década de 1970. Su trabajo llamó la atención de Houghton Mifflin, que la animó a escribir su primer libro infantil.\r\n\r\nSu primera obra, A Summer to Die, fue publicada en 1977. Desde entonces ha escrito más de 30 libros para niños y ha publicado una autobiografía. Dos de sus libros han sido galardonados con el Premio Newbery: ¿Quién cuenta las estrellas?, en 1990, y El dador, en 1993. Ha sido finalista en tres ocasiones del Premio Hans Christian Andersen."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 31,
+        "fields": {
+            "name": "Margaret Atwood",
+            "bio": "Es la segunda de los tres hijos de Carl Edmund Atwood, zoólogo, y Margaret Dorothy William, nutricionista. Debido a la investigación que llevaba a cabo su padre sobre entomología forestal, Atwood pasó gran parte de su infancia entre el norte de Quebec, Ottawa y Toronto.\r\n\r\nPronto se convirtió en una ávida lectora de todo tipo de literatura, desde novelas de misterio, hasta cuentos de los hermanos Grimm, historias sobre Canadá y cómics. Fue al instituto en Leaside, Toronto.\r\n\r\nAtwood empezó a escribir a los 16 años. En 1957 inició sus estudios universitarios en la Victoria University de Toronto. Tuvo como profesores a Jay Macpherson y Northrop Frye, que encaminaron su poesía inicial (Double Persephone) hacia el tema de los mitos y los arquetipos.\r\n\r\nSe graduó en 1961 como licenciada en filología inglesa, con estudios también de francés y filosofía.\r\n\r\nEn 1968, se casó con Jim Polk, de quien se divorció en 1973. Luego, contrajo matrimonio con el novelista Graeme Gibson, con quien se mudó a Ontario, al norte de Toronto. En 1976 tuvieron a su hija Eleanor Jess Atwood Gibson. Volvió a Toronto en 1980."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 32,
+        "fields": {
+            "name": "Shel Silverstein",
+            "bio": "Sheldon Allan Silverstein (Chicago, Illinois; 25 de septiembre de 1930-Cayo Hueso, Florida; 10 de mayo de 1999), más conocido como Shel Silverstein, fue un poeta, cantautor, músico, compositor, dibujante, guionista y autor estadounidense. Él se usó a sí mismo como el tío Shelby en los libros de sus hijos. Traducido a 20 idiomas, sus libros han vendido más de 20 millones de copias.\r\n\r\nSilverstein creía que las obras escritas en papel necesitaban tinta para poder ser leídas en papel - la tinta correcta para el trabajo en particular. Por lo general no permitiría que sus poemas e historias se publicarán a menos de que el pudiera elegir el tamaño del papel. Comenzó siendo un coleccionista de sellos baratos, se tomó en serio la sensación del papel, la mirada del libro, las fuentes y el margen utilizado. La mayoría de sus libros no tienen ediciones de bolsillo porque no quería que su obra fuera disminuida en manera alguna."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 33,
+        "fields": {
+            "name": "Emily Brontë",
+            "bio": "Fue la quinta de seis hermanos. En 1820 la familia se trasladó a Haworth, donde su padre fue nombrado párroco anglicano.\r\n\r\nSu madre murió el 22 de septiembre de 1821 y, en agosto de 1824, Charlotte y Emily fueron enviadas con sus hermanas mayores, María y Elizabeth, al colegio de Clergy Daughters, en Cowan Bridge, Lancashire, donde cayeron enfermas de tuberculosis. En este colegio se inspiró Charlotte Brontë para describir el siniestro colegio Lowood que aparece en su novela Jane Eyre. María y Elizabeth volvieron enfermas a Haworth y murieron de tuberculosis en 1825. Por este motivo, y por las pésimas condiciones del colegio, la familia sacó a Charlotte y a Emily del internado.\r\n\r\nDurante su infancia y tras la muerte de su madre, las tres hermanas Brontë, y Emily, junto a su hermano Branwell, inventaron un mundo de ficción formado por tres países imaginarios —Angria, Gondal y Glass Town— y solían jugar a inventarse historias ambientadas en él.\r\n\r\nPara divertirse entre ellas en aquel pueblo aislado, transformaron en su imaginación unos soldados de madera en personajes de una serie de historias que escribieron sobre el reino imaginario de Anglia, propiedad de Charlotte, y su hermano Branwell (1817-1848), y el de Gondal, que era el de Emily y Anne. Se conservan un centenar de cuadernos escritos a mano, iniciados en 1829, de las crónicas de Anglia, pero ninguno de la saga de Gondal, iniciados en 1834, a excepción de algunos poemas de Emily.3​\r\n\r\nEn 1838, Emily empezó a trabajar como institutriz en Law Hill, cerca de Halifax. Más tarde, junto a su hermana Charlotte, fue alumna de un colegio privado en Bruselas, hasta que la muerte de su tía la hizo volver a Inglaterra. Emily se quedó a partir de entonces como administradora de la casa familiar.\r\n\r\nLa gran preocupación de sus últimos años fue el cuidado de Branwell, un hombre fracasado en la pintura, que había sido despedido del modesto empleo que había logrado en las oficinas del ferrocarril y expulsado de la escribanía de un tal señor Robinson por cortejar a su esposa. La adicción a la bebida fue extrema en los últimos años a la que añadió el consumo indiscriminado del opio. Emily, considerada una persona severa, de temperamento intransigente y poco efusiva, le atendió hasta el final de sus días. Permanecía despierta hasta que Branwell, ebrio y desvariando regresaba al hogar, lo que ocurría con frecuencia a altas horas de la noche, para ayudarle a acostarse. Parece que muchas páginas de Cumbres borrascosas y algunos de sus poemas fueron escritos durante estas vigilias.\r\n\r\nEn 1846, Charlotte descubrió por casualidad las poesías que escribía su hermana Emily. Las tres hermanas Brontë decidieron entonces publicar un libro de poesía conjunto.\r\n\r\nEn el tomo destacan especialmente las poesías de Emily a la que la crítica literaria ha considerado como una de las mejores poetisas de Inglaterra. Las de Anne, aunque no de tan alto nivel, son también superiores a las de Charlotte, cuyo talento era esencialmente novelesco. Solo se vendieron dos ejemplares del libro, que pasó inadvertido; pero las Brontë no se desanimaron y decidieron escribir una novela cada una.\r\n\r\nEn 1847 Emily publicó Cumbres Borrascosas, una novela que se ha convertido en un clásico de la literatura inglesa victoriana a pesar de que inicialmente, debido a su innovadora estructura, desconcertó a los críticos.\r\n\r\nAl igual que la de sus hermanas, la salud de Emily fue siempre muy delicada. Murió el 19 de diciembre de 1848 de tuberculosis a los 30 años, tras haber contraído un resfriado en septiembre durante el funeral de su hermano. Fue enterrada en la iglesia de San Miguel de Todos los Santos en Haworth, Yorkshire del Oeste, Inglaterra."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 34,
+        "fields": {
+            "name": "John Green",
+            "bio": "John Michael Green (Indianápolis, 24 de agosto de 1977) es un escritor estadounidense de literatura juvenil, blogger en YouTube y productor ejecutivo. Es reconocido mayormente por su libro Bajo la misma estrella2​ y Ciudades de papel.\r\n\r\nSus padres, quienes lo apoyaron con su decisión, fueron Mike Green y Sydney Green. Su padre era director de un centro de conservación natural estadounidense y de su madre se desconoce la ocupación que tenía."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 35,
+        "fields": {
+            "name": "L.M. Montgomery",
+            "bio": "Nació en Clifton , Isla del Príncipe Eduardo. Su madre, Clara Woolner Macneill Montgomery, murió por culpa de la tuberculosis cuando Lucy tenía apenas 21 meses. Su padre, Woolner Macneill Montgomery, dejó la provincia después de la muerte de su esposa y eventualmente se estableció en los territorios del oeste canadiense. Lucy fue dejada al cuidado de sus abuelos, Alexander Marquis Macneill y Lucy Woolner Macneill, en la cercana localidad de Cavendish y fue criada con una educación muy estricta. En 1890 Montgomery fue enviada a vivir con su padre y madrastra a Príncipe Alberto, Saskatchewan, aunque tras un año volvió al hogar de sus abuelos.\r\n\r\nEn 1892, luego de completar su educación en Cavendish, continuó sus estudios en el Colegio Príncipe de Gales en Charlottetown. Rindiendo el programa de dos años en uno, obtuvo su certificado de enseñanza. Desde 1896 hasta 1897, estudió literatura en la Universidad de Dalhousie, en Halifax, Nueva Escocia.\r\n\r\nTras trabajar como maestra en varias escuelas isleñas, en 1898 Montgomery se mudó a Cavendish a vivir con su abuela viuda. Entre 1901 y 1902, trabajó en Halifax para los periódicos Chronicle y Echo. Volvió a Cavendish para residir y cuidar de su abuela en 1902. Montgomery se inspiró y escribió sus primeros libros durante su estadía en la Isla Príncipe Eduardo. En 1908 publicó su primer libro Ana de las Tejas Verdes. Tres años después, poco después de la muerte de su abuela, se casó con Ewan McDonald (1870-1943), un ministro presbiteriano, y se mudó a Ontario, donde él tomó el cargo de ministro de la Iglesia Presbiteriana de San Pablo en Leaskdale (actualmente llamado Uxbridge Township), a su vez afiliada con la congregación cercana de Céfiro.\r\n\r\nLa pareja tuvo tres hijos: Chester Cameron Macdonald (1912-1964), (Ewan) Stuart McDonald (1915-1982) y Hugh Alexander, quien murió al nacer en 1914.\r\n\r\nEscribió sus siguientes once libros en la casa pastoral de Leaskdale. La estructura fue posteriormente vendida por la congregación y es ahora el Museo de la Casa Pastoral Lucy Maud Montgomery. En 1926 la familia se mudó a Norval Presbyterian Charge, hoy Halton Hills, (Ontario), desde donde se puede apreciar hoy el Jardín Memorial Lucy Maud Montgomery desde la Autopista Nº 7.\r\n\r\nMurió a la edad de 67 años en Toronto en 1942. Fue enterrada en el Cementerio Comunitario de Cavendish, luego del velatorio en Green Gables y el funeral realizado en la Iglesia Presbiteriana local.\r\n\r\nSus grandes colecciones están archivadas en la Universidad de Guelph, mientras que el Instituto L. M. Montgomery en la Universidad Isla Príncipe Eduardo, coordina la mayoría de las investigaciones y conferencias sobre su obra. Al principio de 1980, sus diarios completos editados por Mary Rubio y Elizabeth Waterson, son publicados por Oxford University Press. De 1988 a 1995, Rea Wilmshurst editó historias cortas publicadas por Montgomery."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 36,
+        "fields": {
+            "name": "Stieg Larrson",
+            "bio": "Larsson creció en el campo con sus abuelos, en el pequeño municipio de Norsjö, unos 100 km al norte de Umeå,1​ que aparece en un capítulo de Los hombres que no amaban a las mujeres. Con nueve años falleció su abuelo (1962) y volvió a Umeå.1​\r\n\r\nInsomne desde su adolescencia, dedicaba noches enteras a redactar en una máquina de escribir que le regalaron a los 12 años; no dejaba dormir a nadie y lo mandaron al garaje. Con 14 años y estando de camping, fue testigo de cómo sus amigos violaban a una chica; días después se cruzó con ella por la calle y se acercó a excusarse por no haberlo evitado, pero ella lo rechazó; siempre se sintió culpable. Eso lo marcó y desde entonces fue un feminista convencido.2​\r\n\r\nMás tarde, Stieg trabajó de lavaplatos en distintos restaurantes de la ciudad y en una fábrica de papel. Viajó dos veces a África con el dinero que iba ahorrando. Entre 1977 y 1999 trabajó como diseñador gráfico para la agencia de noticias Tidningarnas Telegrambyrå (TT).1​\r\n\r\nFue uno de los impulsores de las protestas contra la Guerra de Vietnam en la ciudad. Durante una de las manifestaciones conoció a Eva Gabrielsson, su pareja. Militó en la trotskista Kommunistiska Arbetareförbundet (Liga Comunista de Trabajadores - Cuarta Internacional Secretariado Unificado). Profundamente comprometido en la lucha contra el racismo y la ultraderecha antidemocrática, participó a mediados de los años 1980 en la fundación del proyecto antiviolencia Stop the Racism. En 1995 fue uno de los promotores de la Fundación Expo, dedicada a \"estudiar y cartografiar las tendencias antidemocráticas, de extrema derecha y racistas en la sociedad\".3​ Desde 1999 fue director de la revista de la fundación, también llamada Expo.1​ Empezaron con la revista en 1995 cuando siete personas fueron asesinadas por nazis. Él trabajaba de noche para intentar que todo siguiera funcionando, pero según el mismo Larsson, no recibieron ningún apoyo de la sociedad, y en 1998 la revista se vino abajo. Se reorganizaron con una nueva gestión en 2001. Escribió varios libros de investigación periodística acerca de los grupos nazis de su país y de las conexiones entre la extrema derecha y el poder político y financiero. Amenazado por la ultraderecha, no quiso casarse con su pareja, la arquitecta Eva Gabrielsson, para que su nombre no constara en ningún registro oficial (un compañero periodista suyo fue asesinado con un coche-bomba).\r\n\r\nLarsson sentía también un gran interés por la ciencia ficción; presidía la sociedad escandinava de este género.1​ Muy trabajador, fumador compulsivo (consumía tres paquetes de tabaco al día), bebedor asiduo de café, aquejado de insomnio y amante de la comida basura, su corazón acabó afectado por este modo de vida y falleció de un infarto hora y media después de ser trasladado al hospital, muy cercano a la redacción de Expo, tras haber subido los siete pisos andando debido a una avería del ascensor y manifestar que se encontraba mal."
+        }
+    },
+    {
+        "model": "books.author",
+        "pk": 37,
+        "fields": {
+            "name": "Mary Shelley",
+            "bio": "Mary Wollstonecraft Godwin (de casada Mary Shelley; Londres, 30 de agosto de 1797-ibíd, 1 de febrero de 1851) fue una escritora2​ dramaturga, ensayista y biógrafa británica3​ reconocida principalmente por ser la autora de la novela gótica Frankenstein o el moderno Prometeo (1818),4​ considerada la primera novela de ciencia ficción moderna y que logra inaugurar el género. También editó y promocionó las obras de su esposo, el poeta y filósofo romántico Percy Bysshe Shelley.5​ Su padre fue el filósofo político William Godwin y su madre la filósofa Mary Wollstonecraft.6​\r\n\r\nEn 1814, Mary Godwin inició una relación sentimental con uno de los seguidores políticos de su padre, Percy Bysshe Shelley, quien ya estaba casado.7​ Los dos, junto con la hermanastra de Mary, Claire Clairmont, vivieron en Francia y viajaron por Europa; a su regreso a Inglaterra, Mary estaba embarazada.8​ Durante los siguientes dos años ella y Percy se enfrentaron al ostracismo social, a las deudas constantes y a la desgracia del fallecimiento de su hija, nacida prematuramente. Se casaron a finales de 1816, tras el suicidio de la primera esposa de Percy Shelley, Harriet.9​\r\n\r\nEn 1816, la pareja pasó un verano con George Gordon Byron, John William Polidori y Claire Clairmont cerca de Ginebra, Suiza, donde Mary concibió la idea para su novela Frankenstein.10​ Los Shelley abandonaron Gran Bretaña en 1818 y se mudaron a Italia, donde su segundo y su tercer hijo murieron antes de que Shelley diese a luz a su último hijo, el único que sobrevivió, Percy Florence.11​ En 1822, su esposo Percy Bysshe Shelley se ahogó al hundirse su velero, durante una tormenta en la Bahía de La Spezia.12​ Un año después, Mary Shelley regresó a Inglaterra y desde entonces en adelante se dedicó a la educación de su hijo y a su carrera como escritora profesional.13​ La última década de su vida estuvo plagada de enfermedades, probablemente vinculadas al tumor cerebral que acabaría con ella a los 53 años.14​\r\n\r\nHasta la década de 1970 Mary Shelley fue principalmente reconocida por sus esfuerzos para publicar las obras de Percy Shelley y por su novela Frankenstein, la cual sigue siendo ampliamente leída y ha inspirado varias adaptaciones en cine y teatro.15​ Recientemente los historiadores han comenzado a estudiar más detalladamente los logros de Mary Shelley. Los eruditos han mostrado un interés creciente en su producción literaria, particularmente en sus novelas, como las novelas históricas Valperga (1823) y Perkin Warbeck (1830), la novela apocalíptica El último hombre (1826) y sus dos últimas novelas, Lodore (1835) y Falkner (1837).16​ Los estudios de sus trabajos menos conocidos, como el libro de viajes Caminatas en Alemania e Italia (1844) y sus artículos biográficos incluido en la obra de Dionysius Lardner Cabinet Cyclopaedia (1829-1846) apoyan el punto de vista de que Mary Shelley continuó siendo una política radical a lo largo de su vida. Las obras de Mary Shelley a menudo argumentan que la cooperación y la compasión, particularmente las practicadas por las mujeres en sus familias, son las formas de reformar a la sociedad civil. Esta visión constituyó un desafío directo al romanticismo individual promovido por Percy Shelley y a las teorías políticas educativas articuladas por su padre, William Godwin.17​"
+        }
+    }
+]
