@@ -9,3 +9,4 @@ class AuthorAdmin(admin.ModelAdmin):
 @admin.register(Book)
 class BookAdmin(admin.ModelAdmin):
     list_display = ['name', 'page_number', 'author', 'published_at']
+    list_filter = ['author', 'page_number']
