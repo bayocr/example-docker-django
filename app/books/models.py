@@ -1,4 +1,5 @@
 from django.db import models
+from django.urls import reverse
 
 class Author(models.Model):
     name = models.CharField(max_length=100)
@@ -9,7 +10,9 @@ class Author(models.Model):
     
     def count_books(self):
         return Book.objects.filter(author=self).count()
-
+    
+    class Meta:
+        ordering = ['id']
 
 
 class Book(models.Model):
@@ -21,5 +24,11 @@ class Book(models.Model):
     isbn_10 = models.CharField(max_length=20, unique=True)
     isbn_13 = models.CharField(max_length=20,unique=True)
 
+    def get_absolute_url(self):
+        return reverse('books:detail', kwargs={'pk': self.id})
+
     def __str__(self):
         return self.name
+
+    class Meta:
+        ordering = ['id']

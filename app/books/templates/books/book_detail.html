@@ -1,0 +1,16 @@
+{% extends "main/base.html" %}
+
+{% block title %}
+Book {{ book.name }}
+{% endblock%}
+
+{% block content %}
+    <div class="col-12">
+        <h1>{{ book.name }}</h1>
+        <p>{{ book.author }} | Pages: {{ book.page_number }} | Published: {{ book.published_at|date }} </p>
+
+        <p>
+            {{ book.description}} 
+        </p>
+    </div>
+{% endblock %}
