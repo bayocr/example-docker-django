@@ -1,0 +1,31 @@
+version: '3.7'
+
+services: 
+    postgres:
+        image: postgres:13-alpine
+        env_file: 
+            - ./envs/postgres.env
+        volumes:
+            - postgres_data:/var/lib/postgresql/data
+    
+    proxy:
+        image: nginx:1.20.0-alpine
+        depends_on: 
+            - postgres
+        ports: 
+            - 80:80
+        volumes: 
+            - ./config/nginx/conf.d:/etc/nginx/conf.d
+            - ./config/nginx/includes:/etc/nginx/includes
+            - static_files:/usr/share/nginx/html
+    app:
+        build: 
+            context: .
+            dockerfile: Dockerfile
+        depends_on: 
+            - postgres
+        volumes: 
+            - static_files:/app/static_files
+volumes: 
+    postgres_data:
+    static_files:
